@@ -1,4 +1,5 @@
 ***** Project Overview *****
+
 This project analyzes 120 years of Olympic history (from 1896 to 2016) using SQL. The dataset contains information about athletes, events, participating nations, and medal records. The goal was to extract meaningful insights by answering 20 analytical questions, ranging from participation trends to medal distributions and country-wise performance.
 
 
@@ -45,6 +46,7 @@ India’s Best Sport: Hockey (highest medals – 12 Golds)
 Most Sports in One Olympics: 2016 Rio (34 sports)
 
 --> Historical Performance
+
 Oldest Gold Medalist: Oscar Swahn (72 years, Shooting, 1920)
 
 Most Dominant Country per Game: USA (often leads in Gold & Total Medals)
